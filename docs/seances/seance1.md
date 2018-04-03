@@ -25,7 +25,7 @@ Il existe maintenant de nombreux outils qui permettent l'édition partagée. A v
     * Nous utiliserons un outil tiers pour valider l'acquisition de compétences au travers d'une série de `brevets`. Pour cela merci de vous inscrire sur l'[espace de construction et de validation mutuelle de compétences du cours](https://www.sqily.com/exploweb)
 
 ## Support de cours
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pYyKyR9C2LSnVl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jDUCvpvun79jhv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 * [Explorweb introduction 2018](//www.slideshare.net/jm.gilliot/explorweb-introduction-2018-92778235)
 
 Un autre diaporama à titre d'information, sur les changements en éducation liés au Web
