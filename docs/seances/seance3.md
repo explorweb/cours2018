@@ -6,7 +6,8 @@
   * Quels chapitre?
   * Qu'est ce qui doit s'y trouver?
 * Des sous-groupes seront constitués.
-* Une question récurrente : que doit comporter un bon cours ?
+* Une question récurrente : que doit comporter un *bon* cours ?
+
 
 ## Les séquences habituelles
 Pour une certaine dynamique lors des cours, nous vous proposons quelques séquences que nous rééditerons à chaque séance. Pour chacune de ces séquences, on cherchera : *un animateur, un scribe, un/des secrétaires.*
