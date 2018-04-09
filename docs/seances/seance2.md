@@ -19,3 +19,4 @@ Pour une certaine dynamique lors des cours, nous vous proposons quelques séquen
 
 ## Pour la prochaine séance
 * Chacun nous parlera de quelque chose qui l'a étonné ayant un rapport avec le Web.
+* Rechercher une thématique pour un projet : e-commerce, information, éducation, ...
