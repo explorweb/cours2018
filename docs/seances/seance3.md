@@ -1,11 +1,12 @@
 # ELU 525 - Séance 3
 
-## Thématique : construction collective d'un plan
+## Thématique : recherche de ressources
 
-* Cette séance sera dédiée à définir un premier plan, et à se répartir les premiers contenus à rédiger.
-  * Quels chapitre?
-  * Qu'est ce qui doit s'y trouver?
-* Des sous-groupes seront constitués.
+* Cette séance sera dédiée à identifier le type de ressources existantes et la nature des ressources
+  * Quels cours existent sur le web : à titre d'exemple, ou à titre de ressources ?
+  * en quoi ce sont de *bonnes* ressources ?
+  * Quelles sont les compoasantes de telles ressources ?
+  * Commencer à construire une base de références
 * Une question récurrente : que doit comporter un *bon* cours ?
 
 
@@ -18,4 +19,5 @@ Pour une certaine dynamique lors des cours, nous vous proposons quelques séquen
 3. **Séquence toDO** : préparer la prochaine séance : chacun s'engage à faire quelque chose : recherche, rédaction, définition d'une compétence, préparation d'un brevet ...
 
 ## Pour la prochaine séance
-* Pour chaque sous groupe : définir ce qui est important ? que faudra t-il savoir ? de savoir-faire ? quelles ressources? quelle évaluation ?
+* Chacun nous parlera de quelque chose qui l'a étonné ayant un rapport avec le Web.
+* Rechercher une thématique pour un projet : e-commerce, information, éducation, ...

@@ -4,3 +4,4 @@ Avril - Juin 2018
 # Déroulé du cours
 * [6 avril 2018 - Séance 1](seances/seance1.html)
 * [9 avril 2018 - Séance 2](seances/seance2.html)
+* [13 avril 2018 - Séance 3](seances/seance3.html)

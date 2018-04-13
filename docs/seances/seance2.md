@@ -9,6 +9,14 @@
   * Quels besoins avons nous ?
   * Quels outils potentiels connaissez vous ?
 
+De fait, ce qui a été fait, c'était une exploration sur des thématiques d'intérêt pour mieux cerner le sujet.
+* Evolution du Web
+* Mode de fonctionnement d'un moteur de Recherche
+* Langages de programmation du Web
+* Une exploration des interfaces graphiques
+
+
+
 ## Prendre des habitudes
 Pour une certaine dynamique lors des cours, nous vous proposons quelques séquences que nous rééditerons à chaque séance. Pour chacune de ces séquences, on cherchera : *un animateur, un scribe, un/des secrétaires.*
 1. **Séquence étonnement** : Ce rapide tour de table permettra à chacun d'apporter un élément d'étonnement à la communauté.
