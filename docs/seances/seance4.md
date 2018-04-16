@@ -2,13 +2,13 @@
 
 ## Thématique : contenus détaillés et évaluation
 
+* Chacun présente une ressource sa proposition, chacun commente, compare ...
+* Une question : que doit comporter un bon cours ?
 * Cette séance sera dédiée à définir et valider pour chaque chapitre
   * définir ce qui est important ?
   * les savoirs, savoirs-faire
   * les ressources pour construire le chapitre
   * les évaluations
-* Chaque groupe présente sa proposition, chacun commente, compare ...
-* Une question récurrente : que doit comporter un bon cours ?
 
 
 ## Les séquences habituelles
