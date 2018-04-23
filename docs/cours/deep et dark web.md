@@ -70,7 +70,7 @@ Toutes les données que vont s'échanger les utilisateurs seront donc cryptées,
 ![Fonctionnement de Tor 1](https://www.torproject.org/images/htw1.png)
 ![Fonctionnement de Tor 2](https://www.torproject.org/images/htw2.png)
 ![Fonctionnement de Tor 3](https://www.torproject.org/images/htw3.png) 
-* Pour accéder au Deep Web, il faut prendre des précautions particulières pour éviter les virus susceptibles de récupérer vos données personnelles:
+* Le *deep Web* contient le *dark Web*. Pour accéder au Deep Web, il faut donc prendre des précautions particulières pour éviter les virus susceptibles de récupérer vos données personnelles et éviter les sites malicieux :
     * Utiliser un VPN (cf partie partie précédente).
     * Utiliser un antivirus. 
     * Utiliser un pare-feux. Ce dernier permet de gérer et de définir les paquets qui ont le droit de circuler dans un réseau.
