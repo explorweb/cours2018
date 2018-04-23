@@ -51,8 +51,7 @@ Source: [Julien Boyer: Six raisons d’être contre la Neutralité du Net](http:
 
 **5. Exemple: Google et la neutralité des recherches**
 La question qui se pose: 
-**Comment sont affichées les résultats de Google ** ?
-
+**Comment sont affichées les résultats de Google** ?
 **5.1. Serach Engine Optimization (SEO)**
 
 **5.1.1.Définition du SEO** 
