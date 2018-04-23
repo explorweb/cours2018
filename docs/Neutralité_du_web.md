@@ -50,10 +50,11 @@ Source: [Julien Boyer: Six raisons d’être contre la Neutralité du Net](http:
 
 
 **5. Exemple: Google et la neutralité des recherches**
-La question qui se pose: **Comment sont affichées
-les résultats de Google ?**
+La question qui se pose: 
+**Comment sont affichées les résultats de Google ** ?
 
 **5.1. Serach Engine Optimization (SEO)**
+
 **5.1.1.Définition du SEO** 
 [L’optimisation pour les moteurs de recherche](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche), référencement naturel ou [SEO](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche) (pour search engine optimization), est un ensemble de techniques pour optimiser la visibilité d'une page web dans les pages de résultats de recherche. 
 
