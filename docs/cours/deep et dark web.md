@@ -2,7 +2,7 @@
 
 # Partie théorique:
 
-Le Web se compose principalement de trois parties différentes : le Dark Web, le Deep Web et le Web de surface.
+Le Web se compose principalement de trois parties différentes : le *deep Web*, le Web profond et le Web de surface.
 
 **1- Qu'est-ce que le Web visible ?**
 * Lorsque vous naviguez sur Internet via l’un de vos navigateurs web classiques tel que Mozilla Firefox, Edge, Google Chrome, … vous êtes en fait en train de parcourir ce qu’on appelle le Web surfacique, ou Web visible. Le Web surfacique est la partie du Web qui est accessible en ligne et indexable par les robots d’indexation  des  moteurs de recherche classiques. Un moteur de recherche classique (Google, Yahoo, Bing, ..) indexe environ 9 à 10% du Web entier. Ce sont donc ces 10% qui constituent le Web visible.
