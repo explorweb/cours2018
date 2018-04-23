@@ -11,3 +11,5 @@ Avril - Juin 2018
 * [13 avril 2018 - Séance 3](seances/seance3.html)
 * [16 avril 2018 - Séance 4](seances/seance4.html)
 * [17 avril 2018 - Séance 5](seances/seance5.html)
+* [20 avril 2018 - Séance 6](seances/seance6.html)
+* [23 avril 2018 - Séance 7](seances/seance7.html)
