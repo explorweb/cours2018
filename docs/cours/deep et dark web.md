@@ -169,7 +169,8 @@ A présent vous savez comment explorer le deep web, je tiens à vous préciser u
 
 ---
   
-### Ressources et sources:
+### Ressources et sources
+#### Références
 [La théorie du Darknet](https://www.chaire-cyber.fr/IMG/pdf/4.7la_theorie_du_darknet.pdf)
 [Tor project](https://www.torproject.org/)
 [Le principe du VPN](https://www.supinfo.com/articles/single/2460-principe-vpn)
@@ -177,10 +178,11 @@ A présent vous savez comment explorer le deep web, je tiens à vous préciser u
 [Mooc-DeepWEBacademy](http://deepwebacademy.com/start/)
 [Quelques logiciels du deep web](https://www.supinfo.com/articles/single/4912--darknet-deep-web-darkweb)
 [Undernews](https://www.undernews.fr/anonymat-cryptographie/deep-web-quels-moteurs-de-recherche-pour-explorer-linvisible.html)
-[OpenClassrooms](https://openclassrooms.com/courses/surfez-incognito-sur-internet-avec-le-reseau-tor/une-adresse-ip-qui-en-dit-long-sur-vous)
 [Blog-Jacquesgoueth](https://jacquesgoueth.blogspot.fr/2015/07/comment-acceder-au-web-invisible-deep.html)
 * Wikipedia :
 [réseau superposé](https://fr.wiktionary.org/wiki/r%C3%A9seau_superpos%C3%A9)
 [dark nets](https://fr.wikipedia.org/wiki/Darknet)
 [deep web](https://fr.wikipedia.org/wiki/Web_profond)
 [dark web](https://en.wikipedia.org/wiki/Dark_web)
+#### Pour aller plus loin
+* Un autre [tutoriel](https://openclassrooms.com/courses/surfez-incognito-sur-internet-avec-le-reseau-tor/une-adresse-ip-qui-en-dit-long-sur-vous), d'OpenClassrooms cette fois, qui détaille comment cacher votre adresse IP.
