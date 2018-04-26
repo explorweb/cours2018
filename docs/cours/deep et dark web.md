@@ -2,23 +2,23 @@
 
 # Partie théorique:
 
-Le Web se compose principalement de trois parties différentes : le *deep Web*, le Web profond et le Web de surface.
+Le Web se compose principalement de trois parties différentes : le *dark Web*, le Web profond (*deep Web* en anglais) et le Web visible.
 
 **1- Qu'est-ce que le Web visible ?**
-* Lorsque vous naviguez sur Internet via l’un de vos navigateurs web classiques tel que Mozilla Firefox, Edge, Google Chrome, … vous êtes en fait en train de parcourir ce qu’on appelle le Web surfacique, ou Web visible. Le Web surfacique est la partie du Web qui est accessible en ligne et indexable par les robots d’indexation  des  moteurs de recherche classiques. Un moteur de recherche classique (Google, Yahoo, Bing, ..) indexe environ 9 à 10% du Web entier. Ce sont donc ces 10% qui constituent le Web visible.
+* Lorsque vous tapez une recherche sur un moteur de recherche classique (Google, Yahoo, Lilo, Ecocia, ...), vous parcourez en fait ce l'on appelle le Web surfacique, ou Web visible. Le Web surfacique est la partie du Web qui est accessible en ligne et indexable par les robots d’indexation  de ces moteurs de recherche. Un moteur de recherche classique indexe environ 9 à 10% du Web entier. Ce sont donc ces 10% qui constituent le Web visible.
 
-**2- Qu'est-ce que le Web caché (deep Web) ?**
-* C'est la partie du Web accessible en ligne, mais non indexée par les moteurs de recherche classiques. Il constitue les 90% du Web entier. 
-* Le dark Web est une partie de ce Web profond. On y accède uniquement grâce à certains outils spécialisés.
+**2- Qu'est-ce que le Web caché (*deep Web*) ?**
+* C'est la partie du Web accessible en ligne, mais non indexée par les moteurs de recherche classiques. Ces derniers ne permettent donc pas d'accéder à des sites appartenant au Web profond. Il constitue les 90% du Web entier. 
+* Le dark Web est une partie de ce Web profond.
 
 
-**3- Le concept de Dark Net**
+**3- Le concept de *dark Net* **
 
 * Un darknet est un réseau superposé (ou "réseau overlay") qui utilise des protocoles spécifiques intégrant des fonctions d'anonymisation. Certains se limitent à l'échange de fichiers, d'autres permettent la construction d'un écosystème anonyme complet (Web, blog, mail, irc) comme Freenet.
 
-* Les Dark Nets sont distincts des autres réseaux pair à pair distribués car le partage y est anonyme (c'est-à-dire que les adresses IP ne sont pas partagées publiquement) et donc les utilisateurs peuvent communiquer avec peu de crainte d'interférence gouvernementale ou d'entreprises. Pour ces raisons, les Dark Nets sont souvent associés avec la communication de type dissidence politique et les activités illégales (ex. : cybercrime). Plus généralement, le *dark Net* peut être utilisé pour décrire tout type de sites non-commerciaux sur Internet, ou pour référer à toutes les technologies et communications web « underground », plus communément associées aux activités illégales, dissidentes, ou de lanceurs d'alerte. 
+* Les *dark nets* sont distincts des autres réseaux pair à pair (*peer-to-peer* en anglais) distribués car le partage y est anonyme (c'est-à-dire que les adresses IP ne sont pas partagées publiquement) et donc les utilisateurs peuvent communiquer avec peu de crainte d'interférence gouvernementale ou d'entreprises. Pour ces raisons, les Dark Nets sont souvent associés avec la communication de type dissidence politique et les activités illégales (ex. : cybercrime). Plus généralement, le *dark Net* peut être utilisé pour décrire tout type de sites non-commerciaux sur Internet, ou pour référer à toutes les technologies et communications web « underground », plus communément associées aux activités illégales, dissidentes. Le *dark Web* peut aussi être utilisé pour des raisons éthiques, par des lanceurs d'alerte par exemple.
 
-**4- Différences entre Dark Web et Deep Web**
+**4- Différences entre *dark Web* et *deep Web* **
 
 * L’appellation « Web Profond » ou « Deep Web » désigne les données d’Internet qui ne sont pas indexées par les moteurs de recherche standards tels que Google, Bing, Qwant ou Yahoo. En effet, ces moteurs ne peuvent pas les trouver car ils ne sont pas capable techniquement d’accéder à ces espaces fermés totalement séparés du Web que l’on connait. Et sans crawl et indexation, impossible de rechercher par le biais de ces moteurs.
 * Le terme « Dark Web » quant à lui, désigne une partie bien particulière du Web profond : très intriguant pour certains, c’est le morceau d’Internet souvent présenté comme une zone de non droit, où tous les criminels se donnent rendez-vous pour leurs activités illicites (drogues, armes, tueurs à gage, et autres trafics en tout genre), dans un anonymat total et fort. Ce dernier est bien plus petit que le Deep Web et n’en représente qu’une infime partie. Pourtant, il fait bien plus souvent parler de lui ! Il faut bien faire la différence entre le deux termes : le Deep Web (Internet non indexé) et le Dark Web (qui désigne les bas fonds obscurs).
@@ -44,11 +44,11 @@ La non-indexation de certains sites web peut être due :
 * à l’utilisation du langage JavaScript  qui est incompris par les robots d’indexations, pour lier les pages web d’un même site entre elles.
 
 **6- L'anonymat:**
-
+Ce terme provient du grec ανώνυμος *anonymos* (« sans nom »). En informatique, il s'agit des techniques compliquant l'identification des machines qui ont reçu ou transmis de l'information sur la toile ; en droit il s'agit des procédures destinées à retrouver l'auteur d'une transaction Internet ; au niveau social il s'agit d'un mode de communication entre citoyens plus difficile à surveiller, ce qui relance des enjeux de société en matière de vie privée et informatique mais aussi de cybercrime. À ce jour, l'anonymat total sur l'Internet est et semble être impossible. On ne peut que rendre plus difficile l'identification d'un internaute.
 #### *VPN:*
 
 * Définition : 
-Un VPN (Virtual Private Network) permet de relier des machines entre elles, de façon confidentielle. Un tunnel de communication, ou chemin virtuel,  est donc créé entre ces machines, permettant ainsi d'installer un lien sécurisé et crypté.
+Un VPN (Virtual Private Network) permet de relier des machines entre elles, de façon confidentielle. Un tunnel de communication, ou chemin virtuel, permet alors d'installer un lien sécurisé et crypté.
 
 * Intérêt des VPN :
 Utiliser un VPN permet aux utilisateurs de garder leur identité cachée. En effet, un VPN permet de ne pas dévoiler son adresse IP ainsi que ses informations personnelles, telles que les mots de passe, sur le Deep Web. Notre adresse IP va être remplacée par une adresse IP étrangère délivrée par un serveur situé à l'étranger. Ainsi, lorque l'on surfe sur internet, seule cette adresse IP est visible.
@@ -70,7 +70,7 @@ Toutes les données que vont s'échanger les utilisateurs seront donc cryptées,
 ![Fonctionnement de Tor 1](https://www.torproject.org/images/htw1.png)
 ![Fonctionnement de Tor 2](https://www.torproject.org/images/htw2.png)
 ![Fonctionnement de Tor 3](https://www.torproject.org/images/htw3.png) 
-* Le *deep Web* contient le *dark Web*. Pour accéder au Deep Web, il faut donc prendre des précautions particulières pour éviter les virus susceptibles de récupérer vos données personnelles et éviter les sites malicieux :
+* Le *deep Web* contient le *dark Web*. Pour accéder au *deep Web*, il faut donc prendre des précautions particulières pour éviter les virus susceptibles de récupérer vos données personnelles et éviter les sites malicieux en provenance du *dark Web* :
     * Utiliser un VPN (cf partie partie précédente).
     * Utiliser un antivirus. 
     * Utiliser un pare-feux. Ce dernier permet de gérer et de définir les paquets qui ont le droit de circuler dans un réseau.
@@ -184,5 +184,7 @@ A présent vous savez comment explorer le deep web, je tiens à vous préciser u
 [dark nets](https://fr.wikipedia.org/wiki/Darknet)
 [deep web](https://fr.wikipedia.org/wiki/Web_profond)
 [dark web](https://en.wikipedia.org/wiki/Dark_web)
+[anonymat](https://fr.wikipedia.org/wiki/Anonymat)
+[anonymat sur l'Internet](https://fr.wikipedia.org/wiki/Anonymat_sur_Internet)
 #### Pour aller plus loin
 * Un autre [tutoriel](https://openclassrooms.com/courses/surfez-incognito-sur-internet-avec-le-reseau-tor/une-adresse-ip-qui-en-dit-long-sur-vous), d'OpenClassrooms cette fois, qui détaille comment cacher votre adresse IP.
