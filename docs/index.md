@@ -7,7 +7,7 @@ Avril - Juin 2018
 
 # Contenus proposés
 * [Les bases](cours/Bases_Web.html)
-* [La question des données](Data.html)
+* [La question des données](cours/Data.html)
 * [Neutralité du Web](cours/Neutralité_du_web.html)
 * [Sécurité et Web](cours/securite.html)
 * [Web profond et Web sombre](cours/deep et dark web.html)
