@@ -5,6 +5,11 @@ Avril - Juin 2018
 
 ![Le tour du monde en 80 jours](https://upload.wikimedia.org/wikipedia/commons/6/64/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_02.jpg)
 
+# Contenus proposés
+[Neutralité du Web](Neutralité_du_web.html)
+[Web profond et Web sombre](deep et dark web.html)
+
+
 # Déroulé du cours
 * [6 avril 2018 - Séance 1](seances/seance1.html)
 * [9 avril 2018 - Séance 2](seances/seance2.html)
@@ -13,3 +18,4 @@ Avril - Juin 2018
 * [17 avril 2018 - Séance 5](seances/seance5.html)
 * [20 avril 2018 - Séance 6](seances/seance6.html)
 * [23 avril 2018 - Séance 7](seances/seance7.html)
+* [27 avril 2018 - Séance 8](seances/seance8.html)
