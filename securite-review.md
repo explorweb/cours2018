@@ -114,9 +114,8 @@ Pour configurer un VPN, il existe trois methodes à savoir le PPTP, l'Ipsec et l
 Voici ici quelques lignes de commandes pour les plus curieux qui veulents savoir comment configurer un VPN avec Ipsec. 
 
 ## situation: 
-    nous avons un reseau composé de trois routeurs R1,R2 et R3. nous voulons installer un vpn entre les routeurs R1 et R3. ce TP a pour objectif de
-    montrer quelle configuration faut-il faire sur chaque routeur pour confi-
-    gure le vpn. le logiciel utilisé s'appelle Cisco Packet tracer.
+ nous avons un reseau composé de trois routeurs R1,R2 et R3.nous voulons installer un vpn entre les routeurs R1 et R3. ce TP a pour objectif de
+montrer quelle configuration faut-il faire sur chaque routeur pour configure le vpn. le logiciel utilisé s'appelle Cisco Packet tracer.
     
 Nous commencerons par configurer notre PC et notre serveur en leur attribuant la bonne configuration réseau. Nous attaquerons ensuite la configuration du routeur R1  
 On commence par le Hostname :
