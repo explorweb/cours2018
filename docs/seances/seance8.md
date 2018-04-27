@@ -17,4 +17,7 @@
   ## Pour la prochaine séance
   * Chacun doit lire les autres contenus et essayer de mettre en oeuvre ce qui y est proposés
   * Chacun doit proposer une modalité d'évaluation
-   
+
+  * Pour l'animation
+    * proposer un canevas
+    * Développer le transfert site web
