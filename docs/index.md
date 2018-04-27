@@ -6,7 +6,10 @@ Avril - Juin 2018
 ![Le tour du monde en 80 jours](https://upload.wikimedia.org/wikipedia/commons/6/64/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_02.jpg)
 
 # Contenus proposés
-* [Neutralité du Web](Neutralité_du_web.html)
+* [Les bases](cours/Bases_Web.html)
+* [La question des données](Data.html)
+* [Neutralité du Web](cours/Neutralité_du_web.html)
+* [Sécurité et Web](cours/securite.html)
 * [Web profond et Web sombre](cours/deep et dark web.html)
 
 

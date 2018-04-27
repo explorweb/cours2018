@@ -1,4 +1,4 @@
-# ELU 525 - Séance 6
+# ELU 525 - Séance 8
 
 
 ## Thématique : Point de "mi-parcours"
