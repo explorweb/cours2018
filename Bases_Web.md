@@ -27,14 +27,14 @@
 
 
 ## CSS
-CSS (Cascading Style Sheets), c'est un autre langage qui vient compléter le HTML. Il gére la mise en forme de notre site web.
+CSS (Cascading Style Sheets), c'est un autre langage qui vient compléter le HTML. Il gére la mise en forme d'un site web.
 Dans ce chapitre, nous allons voir la théorie sur le  CSS:
    * qu'est ce que c'est ?
      * vous permet de choisir la couleur du texte.
      * vous permet de sélectionner la police utilisée sur votre site.
      * c'est lui encore qui permet de définir la taille du texte, les bordures, le fond etc.
      * Et aussi, c'est lui qui permet de faire la mise en page de votre site.
-     * Exemple d'une page web écrit en HTML(sans css) et la même page web écrit en HMTL+CSS
+     * Exemple  d'une page web écrit en HTML(sans css) et la même page web écrit en HMTL+CSS
       
      ![](https://user.oc-static.com/files/339001_340000/339428.png)
      
@@ -51,11 +51,14 @@ Dans ce chapitre, nous allons voir la théorie sur le  CSS:
 
 * Il faut noter que les navigateurs ne connaissent pas toutes les propriétés de CSS qui existent. Plus le navigateur est vieux, moins il connaît de fonctionnalités CSS qui sont mis à jour.
 
-* **exemple pratique: Mettre tous les paragrpahes de votre page web en bleue** 
+* **exemple pratique: Mettre tous les paragraphes de votre page web en bleue**
+     * Créer d'abord un fichier vide dans votre éditeur de texte et copiez-y ce bout de code HTML.
+     ![](https://i.imgur.com/gqPeQzL.png) 
+     * Enregistrez le fichier que vous venez de créer  et donner lui un nom qui se termine par .html , comme par exemple page_web.html.
      * Maintenant, créez un nouveau fichier vide dans votre éditeur de texte et copiez-y ce bout de code CSS
         * la balise p signifie paragraphe en html 
       * ![](https://i.imgur.com/eAPaE81.png)
-      * Enregistrez le fichier en lui donnant un nom qui se termine par .css , comme style.css.Placez ce fichier.css dans le même dossier que votre fichier.html comme dans l'image ci-dessous.
+      * Enregistrez le fichier que vous avez crée précédemment et donner lui un nom qui se termine par .css , comme style.css. Placez ce fichier.css dans le même dossier que votre fichier.html comme dans l'image ci-dessous.
       ![](https://i.imgur.com/rJPdtq6.png)
        * Ouvrez maintenant votre fichier page_web.html dans votre navigateur pour le tester, comme vous le faites d'habitude. Regardez,vos paragraphes sont écrits en bleu, comme dans la figure suivante !
        ![](https://user.oc-static.com/files/342001_343000/342657.png)
@@ -74,23 +77,26 @@ Dans ce chapitre, nous allons voir la théorie sur le  CSS:
 * Le navigateur interprète le code HTML et CSS mais il ne comprends pas le php. En effet, le php est interprété côté **serveur**, là où la page est générée. 
 
 **- Environnement de travail et pré-requis**
-* Comme avec HTML et CSS, vous n'aurez besoin que d'un éditeur de texte pour écrire des scripts php. Néanmoins, pour tester le résultat en local, on doit recréer une architecture serveur. Pour cela plusieurs logiciels sont disponibles (suivant l'os que vous utilisez)
+* Comme avec HTML et CSS, vous n'aurez besoin que d'un éditeur de texte pour écrire des scripts php. Néanmoins, pour tester le résultat en local, on doit recréer une architecture serveur. Pour cela plusieurs solutions sont disponibles (suivant l'os que vous utilisez)
     
-    --Pour Windows privilégiez [Wamp](https://www.wampserver.com/).
+    --Pour Windows privilégiez [Wamp](https://www.wampserver.com/) (Windows apache mysql php)
     
-    --Pour Mac Os, il y a [Mamp](https://www.mamp.info/).
+    --Pour Mac Os, il y a [Mamp](https://www.mamp.info/). (Mac apache mysql php)
     
-    --Pour Linux, [Xampp](https://www.apachefriends.org/) est disponible.
+    --Pour Linux, [Xampp](https://www.apachefriends.org/) est disponible. (X (cross) apache mysql php perl  )
 
-* Ces logiciels permettront de créer un serveur apache frontal,  d'interpréter le code php et de le transformer en HTML à fin que le navigateur puisse le comprendre.
+* Il s'agit pour chacun d'un sensemble de logiciels qui mettent en place un serveur web local, prenant en charge les requêtes du navigateur et interprétant le code php y figurant.
 
 **- Enregistrer un fichier php et l'afficher**
 * Pour que le code php soit interprété par le logiciel dédié, il faudra enregistrer le fichier dans le dossier correspondant  au logiciel utilisé.
 
 * Pour Wamp, il s'agit du sous dossier "wamp", pour mamp et xampp, ce sera le sous dossier "htdocs".
 
-* Pour afficher ensuite le résultat, il faut accéder depuis votre navigateur au dossier dans lequel a été stocké le fichier php. Il suffit pour cela de renseigner l'adresse localhost (ou localhost:8888 selon votre système) directement dans vores navigateur.
+* Ce sont les répertoires dans lesquels le serveur apache ira chercher vos fichiers php.
 
+* Pour afficher ensuite le résultat, il faut accéder depuis votre navigateur au dossier dans lequel a été stocké le fichier php. Il suffit pour cela de renseigner l'adresse localhost (ou localhost:8888 selon votre système) directement dans votre navigateur. 
+
+* localhost est le nom attribué à l'adresse IPv6::1 ainsi qu'à la plage IPv4 127.0.0.0/8. Pour en savoir plus, cliquez [ici](https://fr.wikipedia.org/wiki/Localhost).
 - Documentation Php : Liste des fonctions et méthodes
 http://php.net/manual/fr/indexes.functions.php
 ## Javascript
@@ -114,7 +120,7 @@ http://php.net/manual/fr/indexes.functions.php
 * [ Très bonne docu Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference).
 
 
-## REFERENCEMENT
+## Référencement
 
 
 Toute entreprise moderne, qui se respecte se veut etre visible sur la toile. C'est ainsi qu'on assiste à la prolifération des sites web au cours des dernières années et de divers métiers associés tels que le webDesign pour attirer les visiteurs. Dans une optique de générer toujours plus de trafic sur leurs sites web favoris, les webmasters se sont penchés sur une techniques qui permettra non seulement à un internaute de visiter un site donné en passant mais que celui-ci y revient très souvent voire s'y abonné: c'est la naissance du referencement dont l'objet capital est de rendre un site web donnée le plus visible possible sur Internet.
