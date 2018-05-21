@@ -57,6 +57,7 @@ Un VPN peut également être utilisé d'un point de vue professionel car il perm
 * Principe de fonctionnement:
 Toutes les données que vont s'échanger les utilisateurs seront donc cryptées, à l'aide de différents protocoles(PPTP, L2TP, ...) et passeront par un tunnel sécurisé reliant leurs machines. Toutefois, l'utilisation d'un VPN ne permet pas d'être totalement anonyme sur le Web, les fournisseurs de VPN pouvant toujours avoir accès à nos données personnelles.
 
+Pour plus de détails quant à l'utilisation des VPN pour votre sécurité, nous vous conseillons de vous référer à ce [cours](https://github.com/explorweb/cours2018/blob/master/docs/cours/securite.md#la-s%C3%A9curit%C3%A9-sur-le-web).
 
 
 #### *TOR (cf ci-dessous)*:
