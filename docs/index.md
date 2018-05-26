@@ -13,6 +13,9 @@ Avril - Juin 2018
 * [Web profond et Web sombre](cours/deep et dark web.html)
 
 
+# Sujets proposés
+* [Formulaire javascript - site objets perdus](cours/formulaire_objet_perdu.html)
+
 # Déroulé du cours
 * [6 avril 2018 - Séance 1](seances/seance1.html)
 * [9 avril 2018 - Séance 2](seances/seance2.html)
