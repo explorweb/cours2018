@@ -4,6 +4,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Neutralit%C3%A9_du_Net.svg/800px-Neutralit%C3%A9_du_Net.svg.png)
 
+*Source de l'image:* https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Neutralit%C3%A9_du_Net.svg/800px-Neutralit%C3%A9_du_Net.svg.png
 
 La neutralité du web est un principe. Elle garantit aux internautes un accès égalitaire et sans discrimination à tous types de contenus sur le web.
 
@@ -24,12 +25,17 @@ En Europe, le respect de ce principe est imposé par le régulateur des téléco
 
 **3. Pourquoi doit-on garantir la neutralité du web ?**
 
-:::info
+
 *« Nos valeurs restent les mêmes : Internet doit être concurrentiel et ouvert »*, assure la société de Mountain View. 
-:::
-:::info
-[*« Si les fournisseurs d’accès à Internet peuvent bloquer des services et fournir un accès prioritaire aux contenus de certaines entreprises, cela menacerait l’innovation qui rend Internet génial »,* poursuit Google](http://siliconvalley.blog.lemonde.fr/2014/09/12/neutralite-du-net-google-sort-enfin-de-son-silence/ ).
-:::
+
+
+
+*« Si les fournisseurs d’accès à Internet peuvent bloquer des services et fournir un accès prioritaire aux contenus de certaines entreprises, cela menacerait l’innovation qui rend Internet génial »,* poursuit Google
+
+
+*Source*: http://siliconvalley.blog.lemonde.fr/2014/09/12/neutralite-du-net-google-sort-enfin-de-son-silence/ ).
+
+
 Voici les raisions pour la neutralité du Net:
 
 * Assurer la liberté individuelle fondamentale:
@@ -39,7 +45,7 @@ Chacun a le droit de lire et de publier du contenu sur internet, en respectant l
 * Etre actif sur internet
 * Booster l'innovation
 
-Source: [Dix raisons d’être pour la neutralité du Net](http://www.slate.fr/story/69403/pourquoi-etre-pour-la-neutralite-du-net)
+*Source:* [Dix raisons d’être pour la neutralité du Net](http://www.slate.fr/story/69403/pourquoi-etre-pour-la-neutralite-du-net)
 
 Au rang des défenseurs s’illustrent également la quasi-totalité des grandes entreprises de la Silicon Valley, dont Google, Facebook et Microsoft.
 
@@ -50,14 +56,14 @@ Déployer des infrastructures, et en particulier la fibre, coûte cher. Et selon
 * La neutralité du web rend impossible un service personnalisé
 * Elle réduit les Télécoms à de simple porteurs d’information.
 
-Source: [Julien Boyer: Six raisons d’être contre la Neutralité du Net](http://julienboyer.net/ecrivain/six-raisons-detre-contre-la-neutralite-du-net/)
+*Source:* [Julien Boyer: Six raisons d’être contre la Neutralité du Net](http://julienboyer.net/ecrivain/six-raisons-detre-contre-la-neutralite-du-net/)
 
 
 **5. Exemple: Google et la neutralité des recherches**
 La question qui se pose: 
 **Comment sont affichées les résultats de Google** ?
 
-**5.1. Serach Engine Optimization (SEO)** 
+**5.1. Search Engine Optimization (SEO)** 
 
 **5.1.1.Définition du SEO** 
 
@@ -72,7 +78,11 @@ L'objectif est d'**améliorer le positionnement d'une page web dans les pages de
 
 Malheureusement, il arrive que la compétitivité entre les entreprises pousse certains acteurs du web à des techniques de negative SEO (ou NSEO) destinées à faire du tort à leurs concurrents.
 Aujourd’hui, il reste possible de faire du tort à un concurrent en utilisant des techniques de [SEO Black-hat](https://fr.wikipedia.org/wiki/Black_hat) (S'affranchir des règles et conseils de Google pour optimiser le référencement d'un site web).
-Mais alors comment fonctionne le [negative SEO](https://seo-hero.ninja/wiki/negative-seo/) ? Il y a plusieurs techniques, mais la plus fréquente reste le [netlinking](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203513-netlinking-definition-traduction/) de mauvaise qualité ==> Une technique de référencement d'un site internet qui consiste à vouloir multiplier le nombre de liens hypertextes, ou "[backlinks](https://en.wikipedia.org/wiki/Backlink)" pointant vers lui. 
+
+Mais alors comment fonctionne le [negative SEO](https://seo-hero.ninja/wiki/negative-seo/) ?
+
+Il y a plusieurs techniques, mais la plus fréquente reste le [netlinking](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203513-netlinking-definition-traduction/) de mauvaise qualité ==> Une technique de référencement d'un site internet qui consiste à vouloir multiplier le nombre de liens hypertextes, ou "[backlinks](https://en.wikipedia.org/wiki/Backlink)" pointant vers lui. 
+
 Objectifs de cette démarche ==> améliorer la qualité du trafic et la popularité du site web dans le but d'obtenir un meilleur référencement naturel.
 
 **5.1.3. Quelques méthodes de SEO Black Hat**
@@ -83,7 +93,7 @@ Objectifs de cette démarche ==> améliorer la qualité du trafic et la populari
 * Les [EMD](https://www.definitions-marketing.com/definition/exact-match-domain/) (Exact Match Domain) alignant une longue suite de mots clés
 * Spammer les commentaires et forums de liens ([SpamCo](https://www.definitions-seo.com/definition-de-spamco/))
 
-Source: https://www.journaldunet.com/solutions/seo-referencement/1124916-20-techniques-de-black-hat-seo/1124920-cloaking
+*Source:* https://www.journaldunet.com/solutions/seo-referencement/1124916-20-techniques-de-black-hat-seo/1124920-cloaking
 
 
 **5.2. Algorithme du Page Rank**
@@ -91,9 +101,13 @@ Source: https://www.journaldunet.com/solutions/seo-referencement/1124916-20-tech
 Google part du principe qu’un site web qui est recommandé par beaucoup de monde est sans doute plus intéressant qu’un site web dont personne n’en parle, c'est le [PageRank](https://fr.wikipedia.org/wiki/PageRank).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PageRank-hi-res.png/800px-PageRank-hi-res.png)
+
 *source de photo : https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PageRank-hi-res.png/800px-PageRank-hi-res.png*
+
 **5.2.1. [Définition du PageRank](https://fr.wikipedia.org/wiki/PageRank)**
-C'estl'algorithme d'analyse des liens concourant au système de classement des pages Web utilisé par le moteur de recherche Google. Il mesure quantitativement la popularité d'une page web. Ce n'est qu'un indicateur parmi d'autres qui permet de classer les pages du Web dans les résultats de recherche de Google.
+
+C'est l'algorithme d'analyse des liens concourant au système de classement des pages Web utilisé par le moteur de recherche Google. Il mesure quantitativement la popularité d'une page web. Ce n'est qu'un indicateur parmi d'autres qui permet de classer les pages du Web dans les résultats de recherche de Google.
+
 **5.2.2. Fonctionnement simplifié**
 
 ![](https://i.imgur.com/bjQLoVS.png)
@@ -115,7 +129,7 @@ web) avec une faible probabilité.
 
 * Les algorithmes ne peuvent pas être “neutres”. Ils ont été programmés par des humains, qui ont défini les objectifs de ces programmes et les contraintes à respecter. Et ces humains sont responsables de ce que font les outils qu’ils ont créés.
 
-Source: [La neutralité de l'algorithme de Google: remise en cause](https://www.search-foresight.com/neutralite-de-lalgorithme-de-google-remise-cause/)
+*Source:* [La neutralité de l'algorithme de Google: remise en cause](https://www.search-foresight.com/neutralite-de-lalgorithme-de-google-remise-cause/)
 
 
 **Pour aller plus loin...**
