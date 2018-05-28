@@ -8,43 +8,43 @@ Danc ce cours, nous allons traiter en première partie comment écrire un formul
 
 # *Plan du cours*
 
->1. Ecrire un formulaire en HTML
+**1. Ecrire un formulaire en HTML**
 
-  1.1. Html pour les texts
+  - 1.1. Html pour les texts
   
-  1.2. Html pour la date
+  - 1.2. Html pour la date
   
-  1.3. Html pour le choix
+  - 1.3. Html pour le choix
   
-  1.4. Html pour le téléchargement
+  - 1.4. Html pour le téléchargement
   
-  1.5. Html pour le choix multiple
+  - 1.5. Html pour le choix multiple
   
->2. Traitement de la saisie: Propriétés et méthodes du formulaire
+**2. Traitement de la saisie: Propriétés et méthodes du formulaire**
 
-   2.1. Entrée d'une valeur au clavier
+  - 2.1. Entrée d'une valeur au clavier
   
-   2.2. Valider un champ du formulaire 
+  - 2.2. Valider un champ du formulaire 
   
-   2.3. Choix d'une case
+  - 2.3. Choix d'une case
   
-   2.4. Listes déroulantes
+  - 2.4. Listes déroulantes
    
-   2.5. Ajouter, insérer et supprimer des lignes dans une liste
+  - 2.5. Ajouter, insérer et supprimer des lignes dans une liste
   
-   2.6. Soumettre un formulaire
+  - 2.6. Soumettre un formulaire
   
-   2.7. Réinitialiser un formulaire
+  - 2.7. Réinitialiser un formulaire
   
-   2.8. Donner ou retier le focus
+  - 2.8. Donner ou retier le focus
   
-  >3. CSS
+**3. CSS**
+   
+  - 3.1. Petits rappels
   
-  3.1. Petits rappels
+  - 3.2. Modifier les éléments CSS en Javascript
   
-  3.2. Modifier les éléments CSS en Javascript
-  
->4. Exemple (TP openclassroom)
+**4. Exemple (TP openclassroom)**
 
 # *Partie I. Ecrire un formulaire en HTML*
 
@@ -57,9 +57,10 @@ Pour bien enregistrer les données concernant un objet perdu, nous listons les c
 * Autres remarques à ajouter si nécessaires.
 
 Selon les attributs des  différents composants, html nous offre plusieurs elements à utiliser:
+
 ***1.1. Html pour les texts***
 
-Pour laisser l'espace blanc pour mettre les texts, ` <input type='text'>` peut le faire en utilisant `value` et `onfocus`  pour la phrase de guide et ` size` pour limiter la taille. 
+Pour laisser l'espace blanc pour mettre les texts, `<input type='text'>`  peut le faire en utilisant  `value`  et `onfocus`  pour la phrase de guide et ` size` pour limiter la taille. 
 ![](https://i.imgur.com/1RuHsaW.png)
 
 ***1.2. Html pour la date***
@@ -91,16 +92,18 @@ Dans les formulaires comme pour le HTML, on peut accéder à n'importe quelle pr
 Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du formulaire.
 
 ***2.1. Propriété 1 : "Value"***
-* Cette propriété permet de définir une valeur pour différents éléments d'un formulaire comme les<input>, les<button>, etc. 
+* Cette propriété permet de définir une valeur pour différents éléments d'un formulaire comme les *input*, les *button*, etc. 
 * Son fonctionnement: assigner une valeur (une chaîne de caractères) qui sera immédiatement affichée sur l'élément HTML.
 * **Exemple:** Afficher le contenu d'une valeur entrée au clavier
  *Code de l'exemple:*
  
-***-Saisir le texte au clavier***
+- ***Saisir le texte au clavier***
 ><input id=**"text"** type=**"text"** size="60" value="Vous n'avez pas le focus !" />
 
-***-Afficher le texte entré au clavier***
-```<script>
+- ***Afficher le texte entré au clavier***
+
+```
+<script>
      var text = document.getElementById('text');
    
      text.addEventListener('focus', function(e) {
@@ -123,6 +126,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 
 ```
 <script type="text/javascript">
+
      function ValiderMail(formulaire) {
         if (formulaire.mail.value.indexOf("@",0)<0) 
         {alert("Adresse mail saisie invalide.\n
@@ -142,7 +146,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 
 *Code de l'exemple:*
 
-***-Première étape: définir les choix proposées***
+- ***Première étape: définir les choix proposées***
 
 ```
 <label><input type="radio" name="check" value="1" /> 10</label><br />
@@ -150,10 +154,14 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 <label><input type="radio" name="check" value="3" /> 12</label><br />
 <label><input type="radio" name="check" value="4" /> 13</label><br />
 ```
-***-Afficher la case cochée***
 
-> <input type="button" value="Afficher la case cochée" onclick="check();" />
-***-Choix à effectuer selon la case cochée***
+- ***Afficher la case cochée***
+
+```
+ <input type="button" value="Afficher la case cochée" onclick="check();" />
+```
+
+- ***Choix à effectuer selon la case cochée***
 
 ```
 <script>
@@ -171,14 +179,17 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 ```
 
 ***2.4. Propriété 4: "SelectedIndex+options" (Les listes déroulantes)***
+
 Les listes déroulantes comme les boutons radio possèdent des propriétés bien spécifiques.
 Parmis ces propriétés on cite: 
 * La propriété "selectedIndex" qui nous retourne l'index (l'identifiant) de la valeur sélectionnée dans une liste de valeurs donnée.
 * La propriété "options" qui liste les différents éléments qui composent la liste déroulante.
 
-* **Exemple:** Choisir son sexe (Homme ou Femme)
-*Code de l'exemple:*
-***-Afficher la liste déroulante (les options possibles)***
+* **Exemple: Choisir son sexe (Homme ou Femme)** 
+
+
+* **Code de l'exemple:** 
+-***Afficher la liste déroulante (les options possibles)***
 
 ```
 <select id="list">
@@ -188,7 +199,7 @@ Parmis ces propriétés on cite:
  </select>
  ```
  
-***-Afficher le contenu de la valeur choisie***
+-***Afficher le contenu de la valeur choisie***
 
 ```
 <script>
@@ -233,13 +244,13 @@ Parmis ces propriétés on cite:
 
 * **Code de l'exemple:** assez simple
 
-***-Définir le texte à saisir au clavier***
+-***Définir le texte à saisir au clavier***
 
 ```
 <input id="text" type="text" value="Entrez un texte" />
 ```
 
-***-Donner le focus***
+-***Donner le focus***
 
 ``` 
 <input type="button" value="Donner le focus" onclick="document.getElementById('text').focus();" />
