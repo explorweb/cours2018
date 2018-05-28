@@ -60,7 +60,7 @@ Selon les attributs des  différents composants, html nous offre plusieurs eleme
 
 ***1.1. Html pour les texts***
 
-Pour laisser l'espace blanc pour mettre les texts, `<input type='text'>`  peut le faire en utilisant  `value`  et `onfocus`  pour la phrase de guide et ` size` pour limiter la taille. 
+Pour laisser l'espace blanc pour mettre les texts, ```<input type='text'>```  peut le faire en utilisant  `value`  et `onfocus`  pour la phrase de guide et ```size``` pour limiter la taille. 
 ![](https://i.imgur.com/1RuHsaW.png)
 
 ***1.2. Html pour la date***
