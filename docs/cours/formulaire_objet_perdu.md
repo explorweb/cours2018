@@ -200,6 +200,7 @@ Parmis ces propriétés on cite:
 * Les formulaires ne possèdent pas uniquement des propriétés, ils possèdent également des méthodes. L'une des méthodes les plus connues est la méthode submit()
 * Cette méthode permet d'envoyer ou de soumettre un formulaire sans l'intervention de l'utilisateur.
 * **Code de l'exemple:** assez simple
+
 ```
   var element = document.getElementById('un_id_de_formulaire');
   element.submit(); // Le formulaire est expédié
@@ -207,6 +208,7 @@ Parmis ces propriétés on cite:
 ***2.7. Méthode 2: Reset (Réinitialiser le formulaire)***
 * Cette méthode permet de réinitialiser tous les champs d'un formulaire.
 * **Code de l'exemple:** assez simple
+
 ```
  var element = document.getElementById('un_id_de_formulaire');
  
