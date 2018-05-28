@@ -14,7 +14,7 @@ Avril - Juin 2018
 
 
 # Sujets proposés
-* [Page d'accueil d'un site en HTML CSS](cours/Utilisation_de_HTML_et_de_CSS.html)
+* [Page d'accueil d'un site en HTML CSS](cours/Cours_sur_l_utilisation_de_HTML_et_de_CSS.html)
 * [Exemple de script d'animation : un diaporama en javascript](cours/diaporama.html)
 * [Formulaire javascript - site objets perdus](cours/formulaire_objet_perdu.html)
 * [Comprendre l'envoi de requêtes grâce à Postman](cours/commande_HTTP_Postman.html)
