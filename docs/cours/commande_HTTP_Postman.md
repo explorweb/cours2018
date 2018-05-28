@@ -127,13 +127,13 @@ variable1=valeur1&variable2=valeur1
 
 * Premièrement, téléchargez le logiciel [Postman](https://www.getpostman.com/)
 
-* [Qu'est ce que Postman ?](https://hackmd.io/4NQgjkC7R8S-Ut9J8aaZqw)
+* [Qu'est ce que Postman ?](cours/postman.html)
 
 * La commande GET :
-    * [Tutoriel d'accès à une page Web via Postman](https://hackmd.io/8V2llBQBThOgg7RP-JPU7A#)
+    * [Tutoriel d'accès à une page Web via Postman](cours/tuto_GET.html)
 
 * La commande POST : se connecter à moodle
-    * [Tutoriel de connexion à Moodle via Postman](https://hackmd.io/JnKtnPzLSE6VjLE5p3LJbQ)
+    * [Tutoriel de connexion à Moodle via Postman](cours/tuto_POST.html)
 
 ---
 
