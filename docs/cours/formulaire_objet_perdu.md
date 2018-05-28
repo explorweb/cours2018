@@ -112,6 +112,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
      });
 </script>
 ```
+
 ***2.2. Propriété 2: "Valider un formulaire" (Contrôle de saisie)***
 * Il est souvent très utile de vérifier la saisie d'un formulaire avant de le valider. Par exemple: la saisie d'un nom ne doit pas comporter un chiffre, la saisie d'une adresse mail doit être du type: "------@----.- --" ,etc.
 
@@ -119,6 +120,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 
 * **Exemple:** saisie d'une adresse mail
 *Code de l'exemple:*
+
 ```
 <script type="text/javascript">
      function ValiderMail(formulaire) {
@@ -133,11 +135,15 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
      }
 </script>
 ```
+
 ***2.3. Propriété 3: "Checked" (cocher une case)***
 * Cette propriété permet de choisir une case parmis un ensemble de cases proposées.
 * **Exemple:** Choisir un nombre parmis 4 choix
+
 *Code de l'exemple:*
+
 ***-Première étape: définir les choix proposées***
+
 ```
 <label><input type="radio" name="check" value="1" /> 10</label><br />
 <label><input type="radio" name="check" value="2" /> 11</label><br />
@@ -148,6 +154,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
 
 > <input type="button" value="Afficher la case cochée" onclick="check();" />
 ***-Choix à effectuer selon la case cochée***
+
 ```
 <script>
      function check() {
@@ -162,6 +169,7 @@ Nous allons traiter dans le paragraphe qui suit quelques propriétés de base du
      }
 </script>
 ```
+
 ***2.4. Propriété 4: "SelectedIndex+options" (Les listes déroulantes)***
 Les listes déroulantes comme les boutons radio possèdent des propriétés bien spécifiques.
 Parmis ces propriétés on cite: 
@@ -171,6 +179,7 @@ Parmis ces propriétés on cite:
 * **Exemple:** Choisir son sexe (Homme ou Femme)
 *Code de l'exemple:*
 ***-Afficher la liste déroulante (les options possibles)***
+
 ```
 <select id="list">
      <option>Sélectionnez votre sexe</option>
@@ -178,7 +187,9 @@ Parmis ces propriétés on cite:
      <option>Femme</option>
  </select>
  ```
+ 
 ***-Afficher le contenu de la valeur choisie***
+
 ```
 <script>
      var list = document.getElementById('list');
@@ -205,6 +216,7 @@ Parmis ces propriétés on cite:
   var element = document.getElementById('un_id_de_formulaire');
   element.submit(); // Le formulaire est expédié
 ```
+
 ***2.7. Méthode 2: Reset (Réinitialiser le formulaire)***
 * Cette méthode permet de réinitialiser tous les champs d'un formulaire.
 * **Code de l'exemple:** assez simple
@@ -216,36 +228,51 @@ Parmis ces propriétés on cite:
 ``` 
 
 ***2.8. Méthode 3: Focus/Blur (Donner ou retirer le focus)***
+
 * Les méthodes Focus() et Blur() permettent respectivement de donner ou de retirer le focus à un champ, c'est à dire pointer le curseur dans le champ souhaité ou le retirer.
+
 * **Code de l'exemple:** assez simple
+
 ***-Définir le texte à saisir au clavier***
+
 ```
 <input id="text" type="text" value="Entrez un texte" />
 ```
+
 ***-Donner le focus***
+
 ``` 
 <input type="button" value="Donner le focus" onclick="document.getElementById('text').focus();" />
 ```
 
 ***-Retirer le focus***
+
 ```
 <input type="button" value="Retirer le focus" onclick="document.getElementById('text').blur();" />
 ```
 
 # *Partie III. Manipuler le CSS*
 
+
 ***3.1. Petits rappels***
+
 * CSS est l'abréviation de Cascading Style Sheets, et il permet d'éditer graphiquement les éléments HTML (ou XML).
+
 * On peut modifier la propriété d'un seul élément en l'indiquant directement dans la balise de cet élément. 
 ex: 
+
 ```
 <div style="color:red;"> Ici on modifie la couleur du texte en rouge.</div> 
 ```
+
 * On peut par ailleurs éditer la feuille de style entièrement. ex 
+
 ```
 div {color : red}; 
 ``` 
+
 Ici on modifie la couleur de texte de tous les éléments div en rouge.
+
 * Priorité : Les propriétés CSS de l'attribut sont prioritaires sur ceux d'une feuille de style. ex : 
 
 ```
@@ -264,6 +291,7 @@ Ici on modifie la couleur de texte de tous les éléments div en rouge.
 <script>element.style.backgroundColor = 'blue'; 
 </script>
 ```
+
 * En lecture, un problème se pose : Si on a modifié les propriétés CSS en éditant la feuille de style et non l'attribut style, on ne peut pas accéder directement en lecture. 
 * Il faut utiliser dans ce cas la fonction getComputedStyle() qui récupère n'importe quel style CSS. Déclaré via l'attribut Style, via une feuille de style ou même généré automatiquement, la fonction se chargera de récupérer l'information (en lecture seule).
 * Pour Plus de détails concernant la manipulation du CSS avec Javascript, je vous renvoie à [ce cours](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/manipuler-le-css)
