@@ -17,8 +17,8 @@ Avril - Juin 2018
 * [Page d'accueil d'un site en HTML CSS](cours/HTML.html)
 * [Exemple de script d'animation : un diaporama en javascript](cours/diaporama.html)
 * [Formulaire javascript - site objets perdus](cours/formulaire_objet_perdu.html)
-* [Comprendre l'envoi de requêtes grâce à Postman](cours/Écrire des requêtes HTTP avec Postman.hmtl
-* [Installer et configurer un CMLS](cours/cms.html)  
+* [Comprendre l'envoi de requêtes grâce à Postman](cours/Écrire des requêtes HTTP avec Postman.hmtl)
+* [Installer et configurer un CMS](cours/cms.html)  
 
 # Déroulé du cours
 * [6 avril 2018 - Séance 1](seances/seance1.html)
