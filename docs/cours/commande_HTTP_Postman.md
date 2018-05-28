@@ -121,19 +121,6 @@ Dans le cas du formulaire, les variables ont un nom et une valeur, comme l'en-t�
 ```
 variable1=valeur1&variable2=valeur1
 ```
----
-
-### Piste de TP : commande GET et POST
-
-* Premièrement, téléchargez le logiciel [Postman](https://www.getpostman.com/)
-
-* [Qu'est ce que Postman ?](postman.html)
-
-* La commande GET :
-    * [Tutoriel d'accès à une page Web via Postman](tuto_GET.html)
-
-* La commande POST : se connecter à moodle
-    * [Tutoriel de connexion à Moodle via Postman](tuto_POST.html)
 
 ---
 
