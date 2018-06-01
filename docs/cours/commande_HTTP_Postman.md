@@ -123,7 +123,7 @@ variable1=valeur1&variable2=valeur1
 ```
 
 ---
-### Piste de TP : commande GET et POST
+### Tutoriels et TP : commande GET et POST
 
 * Premièrement, téléchargez le logiciel [Postman](https://www.getpostman.com/)
 
