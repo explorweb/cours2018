@@ -124,6 +124,21 @@ variable1=valeur1&variable2=valeur1
 
 ---
 
+### Tutoriels et TP : commande GET et POST
+
+* Premièrement, téléchargez le logiciel [Postman](https://www.getpostman.com/)
+
+* [Qu'est ce que Postman ?](https://hackmd.io/4NQgjkC7R8S-Ut9J8aaZqw)
+
+* La commande GET :
+    * [Tutoriel d'accès à une page Web via Postman](https://hackmd.io/8V2llBQBThOgg7RP-JPU7A#)
+
+* La commande POST : se connecter à moodle
+    * [Tutoriel de connexion à Moodle via Postman](https://hackmd.io/JnKtnPzLSE6VjLE5p3LJbQ)
+
+
+---
+
 ### Exercice
 
 Exerce toi maintenant ! Voilà le lien d'un Google Form, utilise Postman pour te rendre sur cette page et le remplir. Prends des captures d'écran des requêtes que tu utilises pour valider le brevet.
