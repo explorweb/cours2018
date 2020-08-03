@@ -1,7 +1,7 @@
 # Session 2018 du cours "Exploration du Web" IMT Atlantique [ELU 525](https://portail.telecom-bretagne.eu/portal/pls/portal/pkg_df.programmes.SHOW_FICHE?p_id_mod_er=32168)
 Avril - Juin 2018
 
-* Breaking news : 17 avril 2018 les étudiants du cours prennent le pouvoir et le renomme "le Tour du Web en 80 jours" et décident qu'ils sont leurs propres étudiants !
+* Breaking news : 17 avril 2018 les étudiants du cours prennent le pouvoir et le renomment "le Tour du Web en 80 jours" et décident qu'ils sont leurs propres étudiants !
 
 ![Le tour du monde en 80 jours](https://upload.wikimedia.org/wikipedia/commons/6/64/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_02.jpg)
 
